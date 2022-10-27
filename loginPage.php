@@ -22,7 +22,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Site Metas -->
-    <title>LiveStock110</title>
+    <title>LiveStock</title>
     <meta name="keywords" content="">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -56,7 +56,7 @@
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 					
                     <div class="right-phone-box">
-                        <p>Call US :- <a href="#"> 0312 5678234</a></p>
+                        <p>Call US :- <a href="#"> +9212 3456789 </a></p>
                     </div>
                     <div class="our-link">
                         <ul>
